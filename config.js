@@ -24,11 +24,11 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫`
-global.author = '{\n "bot": {\n   "name": "𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.botname = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.textbot = `Powered By Sisked`
+global.packname = `× 𝐁𝐎𝐓 𝐅𝐈𝐆𝐇𝐓𝐄𝐑𝐒`
+global.author = '{\n "bot": {\n   "name": "× 𝐁𝐎𝐓 𝐅𝐈𝐆𝐇𝐓𝐄𝐑𝐒",\n     "author": "Yinneth",\n   "status_bot": "active"\n }\n}'
+global.wait = '× 𝐁𝐎𝐓 𝐅𝐈𝐆𝐇𝐓𝐄𝐑𝐒'
+global.botname = '× 𝐁𝐎𝐓 𝐅𝐈𝐆𝐇𝐓𝐄𝐑𝐒'
+global.textbot = `Powered By Yinneth`
 global.listo = 'Completado ✯'
 global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻'
 global.baileys = '@whiskeysockets/baileys'
@@ -36,7 +36,7 @@ global.baileys = '@whiskeysockets/baileys'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
-global.miniurl = fs.readFileSync('./storage/img/siskedurl.jpg')
+global.miniurl = fs.readFileSync('./storage/img/Siskedurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
